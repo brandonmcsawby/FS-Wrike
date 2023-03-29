@@ -1,0 +1,76 @@
+{
+    "kind": "tasks",
+    "data": [
+        {
+            "id": "IEADVFPNKRAMJDJD",
+            "accountId": "IEADVFPN",
+            "title": "1086623011: [IMPL] New User Account",
+            "description": "",
+            "briefDescription": "",
+            "parentIds": [
+                "IEADVFPNI47RQOLV"
+            ],
+            "superParentIds": [],
+            "sharedIds": [
+                "KX7ZBNTP",
+                "KUALDVIG",
+                "KUAP5J3Y",
+                "KUADJFCK",
+                "KUAJLXXN",
+                "KX72AJXQ",
+                "KX73CG3S",
+                "KUALG7XR",
+                "KX7Z5LOF",
+                "KUAIBVGD",
+                "KUAI4NEP",
+                "KUAIGYV2",
+                "KUAMI3BX",
+                "KUALL4QT",
+                "KUAH6LNI",
+                "KUAKU4Q4",
+                "KUAL6GSU"
+            ],
+            "responsibleIds": [
+                "KUAMI3BX"
+            ],
+            "status": "Active",
+            "importance": "Normal",
+            "createdDate": "2023-03-29T18:51:24Z",
+            "updatedDate": "2023-03-29T18:51:24Z",
+            "dates": {
+                "type": "Backlog"
+            },
+            "scope": "WsTask",
+            "authorIds": [
+                "KUAP5J3Y"
+            ],
+            "customStatusId": "IEADVFPNJMAAAAAA",
+            "hasAttachments": false,
+            "permalink": "https://www.wrike.com/open.htm?id=1086623011",
+            "priority": "32370c008000000000009000",
+            "followedByMe": true,
+            "followerIds": [
+                "KUAP5J3Y",
+                "KUAMI3BX"
+            ],
+            "superTaskIds": [],
+            "subTaskIds": [],
+            "dependencyIds": [],
+            "metadata": [],
+            "customFields": [
+                {
+                    "id": "IEADVFPNJUAD6JA7",
+                    "value": "test-email"
+                },
+                {
+                    "id": "IEADVFPNJUAD6JA2",
+                    "value": "test-name"
+                },
+                {
+                    "id": "IEADVFPNJUAD6JAZ",
+                    "value": "test-partner"
+                }
+            ]
+        }
+    ]
+}
